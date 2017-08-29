@@ -1,19 +1,16 @@
 {
-    "todos": [
+    "books": [
         {
-            "task": "Eat",
+            "title": "Who Fears Death",
             "id": 1,
-            "complete": false
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41eUhJG7m5L._SY346_.jpg",
+            "price": 20
         },
         {
-            "task": "Sleep",
-            "id": 2,
-            "complete": false
-        },
-        {
-            "task": "Code",
-            "id": 3,
-            "complete": false
+            "title": "Akata Witch",
+            "id": 1,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/518EMv8qmvL._SY346_.jpg",
+            "price": 20
         }
     ]
 }
